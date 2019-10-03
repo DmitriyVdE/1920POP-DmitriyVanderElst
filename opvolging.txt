@@ -12,7 +12,7 @@ Persoonlijk ontwikkelingsplan (POP) - opvolgingsdocument Academiejaar 2019-2020
 
 Student:	Dmitriy Van der Elst
 
-Mentor:		<in te vullen door de mentor>
+Mentor:		Joris Maervoet
 
 =================================================================================
 Beschrijving - datum 26/09/2019
@@ -75,6 +75,26 @@ kerndoelen:
 Het volgen van de door google opgestelde 'Kotlin Bootcamp for Programmers’ en ‘Developing Android Apps with Kotlin’ courses op Udacity.
 
 >
+
+
+
+Feedback mentor - 03/10/2019 
+----------------------------
+
+Dag Dmitriy,
+
+(1) Kotlin is zeker een goed element voor je POP-project, maar uiteindelijk niet zo moeilijk en niet zo uitgebreid. Vandaar dat het interessant is om er nog iets bij te doen. 
+bv. een aantal interessante uitbreidingen van kotlin zoeken zie https://kotlin.link/
+bv. tegenhanger Android Studio dev
+bv. een framework op de server bijdoen om een Web API te creëren die je vanuit Kotlin gebruikt
+
+(2) Kan je je einddoelen stevig herformuleren (zie voorbeelden studiewijzer !!)
+- elke indicator moet voldoende concreet en toestbaar zijn
+- voorzie indicatoren gericht op kennis, en indicatoren gericht op toepassing
+- opmerking: een quiz is niet zo'n interessant bewijs (je kan bv. oefeningen bijhouden, rapport schrijven, certificaat halen, ...) en een vergelijking maken met Java is eigenlijk niet zo zinvol voor iedereen 
+- probeer er ook zeker een toepassing in te steken (een app die je gaat maken waarin je een aantal aspecten (schrijf deze op) van Kotlin illustreert)
+
+Veel succes!
 
 
 =================================================================================
