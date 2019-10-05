@@ -97,6 +97,16 @@ bv. een framework op de server bijdoen om een Web API te creëren die je vanuit 
 Veel succes!
 
 
+E-mail student - 03/10/2019
+---------------------------
+Hiernaast wil ik ook even melden dat Kotlin niet het enigste is dat ik wil doen. In het voorstel staat ook dat ik hiermee android apps wil leren ontwikkelen. 
+Hierin zal het meeste van het werk kruipen aangezien Kotlin vooral het aanleren van een nieuwe syntax is en niet veel meer buiten een aantal uitzonderingen. 
+In het tweede deel, leren android apps ontwikkelen in Kotlin, zal het meeste tijd kruipen. Daarom heb ik ook bij de kerndoelen de titels en beschrijvingen 
+van lessen geplaatst omdat deze vrij duidelijk illustreren wat erin geleerd zal worden. Nadat ik dan de twee courses (Kotlin & Android app dev. in Kotlin) heb 
+voltooid is het dan de bedoeling om een kleine eigen app te maken die toont dat ik de nodige kennis verworven heb. Daarom wil ik vragen om mijn projectvoorstel 
+nog eens te lezen, vooral het deel van de tweede course (2) Developing Android Apps with Kotlin).
+
+
 =================================================================================
 Planning - <datum van eerste ingave> (op te stellen nadat je voorstel is goedgekeurd)
 =================================================================================
