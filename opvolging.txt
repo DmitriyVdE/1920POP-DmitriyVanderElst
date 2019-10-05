@@ -107,6 +107,16 @@ voltooid is het dan de bedoeling om een kleine eigen app te maken die toont dat 
 nog eens te lezen, vooral het deel van de tweede course (2) Developing Android Apps with Kotlin).
 
 
+Feedback mentor - 05/10/2019 
+----------------------------
+Ik had niet door dat het om Udacity-courses ging; zo'n zaken moet je allemaal zeker opnemen in je einddoelen. Er zijn in het verleden zeker studenten geweest die 
+(via andere kanalen) op een 20 à 30-tal uur Kotlin+Android Apps met Kotlin aanleren, en daar dan nog iets bijdoen. Nu zie ik de duurtijd in Udacity, en voor mij is 
+het okee dat je het daarbij houdt dan.
+
+Kan je wel je einddoelen stevig herformuleren ? (zie deel (2) vorige feedback)
+
+
+
 =================================================================================
 Planning - <datum van eerste ingave> (op te stellen nadat je voorstel is goedgekeurd)
 =================================================================================
