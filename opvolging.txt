@@ -48,25 +48,9 @@ Aangezien ik voor Web & Mobile gekozen heb zal Kotlin en bij toevoeging Android 
 <Geef hier de opsomming van de kerndoelen van de opleiding waarbinnen je voorstel past, bijvoorbeeld: 
 
 kerndoelen:
-1) Kotlin Bootcamp for Programmers:
-1.a Introduction - Set up IntelliJ, the IDE that we will use in this course, and understand the major benefits of learning and using Kotlin.
-1.b Kotlin Basics - Use the Kotlin interpreter to get comfortable with basic language features. Write Kotlin statements and expressions, and practice using operators.
-1.c Functions - Create and call functions with default and variable arguments. Pass functions as arguments to filters, and program simple lambdas.
-1.d Classes - Learn how object-oriented programming works in Kotlin. Build private and public classes, including abstract classes and interfaces. Understand data classes and special purpose classes.
-1.e Kotlin Essentials: Beyond the Basics: Learn about more advanced features such as pairs, annotations, and extension functions. Understand how to use constants, collections, and generics in Kotlin.
-1.f Functional Manipulation - Dive into lambdas and higher-order functions in Kotlin. Learn how to write inline functions and Single Abstract Method (SAM) interfaces.
-
-2) Developing Android Apps with Kotlin:
-2.a Building your First App - Build your first app: "Dice Roller" that covers basic Android components like displaying texts and images as well as a tour of the Android tools you'll be using throughout this course.
-2.b Layouts - Designing your app's UI is the first step to a great user experience. This lesson covers all the basics of UI layout design. You'll use all the popular view types with a focus on the ContraintLayout.
-2.c App Navigation - Building multiple screens on Android has never been easier with the Navigation library. You'll get to build a fun trivia app using multiple fragments and conditional navigation.
-2.d Activity & Fragment Lifecycle - Understanding the concept of Lifecycles for both activities and fragments is what makes a great Android developer! Have a treat with this delicious "Dessert Pusher" app.
-2.e App Architecture (UI Layer) - With Architecture Components you'll have the power to design even the most complicated app ideas. Combine ViewModels with LiveData to build this super fun "Guess it" game.
-2.f App Architecture (Persistence) - This lesson is all about data persistence, there are many ways to storing data permanently, but with Room things have become even easier than ever before!
-2.g RecycleView - Everything is better in a list! Recycler View has been - and continues to be - an essential component of any app design. This lesson is all about making your app better with Recycler Views.
-2.h Connect to the Internet - Need some live data in your app? In this lesson you'll use Retrofit to communicate with any API service out there. You'll also use Glide to display images from the web.
-2.i Behind the Scenes - Not everything is displayed on the screen. In Android, there's so much happening in the background and you'll get to build your own background services and tasks in this lesson.
-2.j Designing for Everyone - Coming up with a good design for an app is always hard, but creating a great design is more than just colors and layouts. Let's build an app that is designed for everyone, everywhere!
+1) Rapport schrijven en bijhouden wat ik in elke les geleerd heb tijdens de twee courses. (Udacity)
+2) Alle gemaakte oefeningen bijhouden (op git)
+3) Totaaloefening maken op het einde met alle geleerde kennins (indien hier tijd voor is)
 
 >
 
@@ -114,7 +98,6 @@ Ik had niet door dat het om Udacity-courses ging; zo'n zaken moet je allemaal ze
 het okee dat je het daarbij houdt dan.
 
 Kan je wel je einddoelen stevig herformuleren ? (zie deel (2) vorige feedback)
-
 
 
 =================================================================================
