@@ -100,6 +100,23 @@ het okee dat je het daarbij houdt dan.
 Kan je wel je einddoelen stevig herformuleren ? (zie deel (2) vorige feedback)
 
 
+Feedback mentor - 12/10/2019 
+----------------------------
+Dmitriy,
+kan je je EINDdoelen (niet je KERNdoelen dat was bedoeld voor iets anders) als volgt aanpassen:
+
+1. Volledige kennis van de Kotlin syntax en programmeervormen, a.d.h.v. 'Kotlin Bootcamp for Programmers’ en ‘Developing Android Apps with Kotlin’ courses op Udacity.
+indicator: Rapport schrijven en bijhouden wat ik in elke les geleerd heb tijdens de twee courses. (Udacity)
+indicator: Alle gemaakte oefeningen bijhouden (op git)
+2. Deze kennis toepassen in de ontwikkeling van een Android app
+indicator: Ontwikkelen van een Android app in Kotlin met volgende functionaliteiten: ... ...
+Deze app maakt gebruik van App Navigation, recycler views en maakt verbinding met het internet en ... ...
+
+Je MOET een toepassing maken (zo werkt POP), dat is niet optioneel. Zoek naar een leuk idee dat wel erg dicht aanleunt bij wat je geleerd hebt in de courses. Beschrijf (zie ...) wát je app doet en wélke kennis ze toepast.
+ps: je kan de indicator 'Rapport schrijven' mss weglaten, indien je met een goed uitgewerkt app-voorstel komt
+
+
+
 =================================================================================
 Planning - <datum van eerste ingave> (op te stellen nadat je voorstel is goedgekeurd)
 =================================================================================
