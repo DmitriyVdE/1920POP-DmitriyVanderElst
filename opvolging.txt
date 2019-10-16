@@ -25,10 +25,11 @@ Android apps ontwikkelen in Kotlin
 
 Einddoelen (met evaluatiecriteria):
 
-1) Rapport schrijven en bijhouden wat ik in elke les geleerd heb tijdens de twee courses. (Udacity)
-2) Alle gemaakte oefeningen bijhouden (op git)
+1) (Rapport schrijven en bijhouden wat ik in elke les geleerd heb tijdens de twee courses. (Udacity))
+2) Alle gemaakte oefeningen bijhouden (op git) (En beschrijven?)
 3) Totaaloefening maken op het einde met alle geleerde kennins
     Dit zou een app kunnen zijn zoals een todolist die automatisch een alarm zou kunnen zetten, notificaties stuurt bij het naderen van een deadline, etc...
+    Deze app zou vergelijkbaar kunnen zijn met google notes en calendar samen.
 
 Motivatie - betrokkenheid:
 
@@ -50,8 +51,8 @@ Aangezien ik voor Web & Mobile gekozen heb zal Kotlin en bij toevoeging Android 
 kerndoelen:
 1. Volledige kennis van de Kotlin syntax en programmeervormen.
 2. Slagen op de aanwezige quizzes in de courses & Alle voorbeeldapps maken.
-3. Beschrijving van het hele process in een rapport
-4. Volledige opbouw kunnen uitleggen van een correct gemaakte Android app.
+3. Volledige opbouw kunnen uitleggen van een correct gemaakte Android app.
+4. Volledig werkende app kunnen maken.
 
 >
 
