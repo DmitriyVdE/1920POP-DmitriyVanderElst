@@ -25,11 +25,14 @@ Android apps ontwikkelen in Kotlin
 
 Einddoelen (met evaluatiecriteria):
 
-1) (Rapport schrijven en bijhouden wat ik in elke les geleerd heb tijdens de twee courses. (Udacity))
-2) Alle gemaakte oefeningen bijhouden (op git) (En beschrijven?)
-3) Totaaloefening maken op het einde met alle geleerde kennins
-    Dit zou een app kunnen zijn zoals een todolist die automatisch een alarm zou kunnen zetten, notificaties stuurt bij het naderen van een deadline, etc...
-    Deze app zou vergelijkbaar kunnen zijn met google notes en calendar samen.
+1. Volledige kennis van de Kotlin syntax en programmeervormen, a.d.h.v. 'Kotlin Bootcamp for Programmers’ en ‘Developing Android Apps with Kotlin’ courses op Udacity.
+indicator: Rapport schrijven en bijhouden wat ik in elke les geleerd heb tijdens de twee courses. (Udacity)
+indicator: Alle gemaakte oefeningen bijhouden (op git)
+2. Deze kennis toepassen in de ontwikkeling van een Android app
+indicator: Ontwikkelen van een Android app in Kotlin met volgende functionaliteiten:  todolist die automatisch een alarm zou kunnen zetten, notificaties stuurt bij het naderen van een deadline, etc...
+    Deze app zou vergelijkbaar kunnen zijn met google notes en calendar samen. Deze app maakt gebruik van App Navigation, recycler views en maakt verbinding met het internet.
+
+
 
 Motivatie - betrokkenheid:
 
@@ -49,10 +52,6 @@ Aangezien ik voor Web & Mobile gekozen heb zal Kotlin en bij toevoeging Android 
 <Geef hier de opsomming van de kerndoelen van de opleiding waarbinnen je voorstel past, bijvoorbeeld: 
 
 kerndoelen:
-1. Volledige kennis van de Kotlin syntax en programmeervormen.
-2. Slagen op de aanwezige quizzes in de courses & Alle voorbeeldapps maken.
-3. Volledige opbouw kunnen uitleggen van een correct gemaakte Android app.
-4. Volledig werkende app kunnen maken.
 
 >
 
@@ -118,6 +117,9 @@ Je MOET een toepassing maken (zo werkt POP), dat is niet optioneel. Zoek naar ee
 ps: je kan de indicator 'Rapport schrijven' mss weglaten, indien je met een goed uitgewerkt app-voorstel komt
 
 
+Goedkeuring mentor - 17/10/2019
+-------------------------------
+goedgekeurd (ik ben zo vrij geweest om zelf wat te mergen)
 
 =================================================================================
 Planning - <datum van eerste ingave> (op te stellen nadat je voorstel is goedgekeurd)
