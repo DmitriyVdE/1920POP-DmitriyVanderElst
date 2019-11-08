@@ -53,11 +53,14 @@ Aangezien ik voor Web & Mobile gekozen heb zal Kotlin en bij toevoeging Android 
 
 kerndoelen:
 
+- Volledig verstaan en kunnen gebruiken van de Kotlin syntax.
+- Verstaan wat de verschillende onderdelen van een goede Android app zijn.
+
 >
 
 <Werkvormen:
 
-Het volgen van de door google opgestelde 'Kotlin Bootcamp for Programmers’ en ‘Developing Android Apps with Kotlin’ courses op Udacity.
+- Het volgen van de door google opgestelde 'Kotlin Bootcamp for Programmers’ en ‘Developing Android Apps with Kotlin’ courses op Udacity.
 
 >
 
@@ -122,11 +125,13 @@ Goedkeuring mentor - 17/10/2019
 goedgekeurd (ik ben zo vrij geweest om zelf wat te mergen)
 
 =================================================================================
-Planning - <datum van eerste ingave> (op te stellen nadat je voorstel is goedgekeurd)
+Planning - 08/11/2019 (op te stellen nadat je voorstel is goedgekeurd)
 =================================================================================
 
 <Hou hier je werkplanning bij, op te stellen nadat je voorstel is goedgekeurd>
 
+- Alle lessen volgen op Udacity in de komende 3 weken
+- Na alle lessen gevolgd zijn, een Android app ontwikkelen inde volgende 2-3 weken
 
 =================================================================================
 Logboek
@@ -141,35 +146,30 @@ naar dat technisch logboek.>
 
 
 
-
-
-
-
-
-
-
-
-
 =================================================================================
-Eerste tussenrapportering - <datum van ingave>
+Eerste tussenrapportering - 08/11/2019
 =================================================================================
 
 Stand van zaken:
 
-<Geef hier een korte stand van zaken van wat er gebeurd is sinds de start: 
-Wat is er gerealiseerd? Wat moet nog gebeuren? Wat zijn bijzondere gebeurtenissen?
-Wat zijn problemen die je nog moet oplossen?>
+Alle lessen omtrend de Kotlin syntax zijn gevolgd. De bijhorende codebestanden zullen te vinden zijn in de git repo.
+De lessen gaan soms wat trager vooruit omdat het maken van de 'Quizes' die na elk deel in een hoofdstuk staan, soms wat moeilijker zijn dan ik dacht.
+Gemiddeld zal ik 20 minuten meer tijd nodig hebben per les dan aangegeven op Udacity. Meerdere lessen vallen wel te voltdooien op eenzelfde dag dus blijft het zeker doenbaar.
+Over het algemeen vind ik Kotlin een heel interessante taal om te leren omdat de compiler veel werk overneemt van de programmeur zoals het automatisch aanmaken van getters en setters
+in een klasse. Hiernaas heeft Kotlin nog een hele hoop andere features die mijn leven veel gemakkelijker maken.
+
 
 Reflectie:
 
-<Hoe werkt je aanpak? Waar had je achteraf gezien beter anders te werk kunnen gaan?
-Hoe ga je eventueel bijsturen? Welke aanpassingen zijn er nodig in je planning?>
+Ik had misschien wat vroeger kunnen beginnen, maar ik denk dat ik zeker nog genoeg tijd heb om die hele project tegen midden december te voltdooien.
 
 
 Zelfevaluatie:
 
-<Geef jezelf hier een score (gaande van 'NVT' tot 'A') voor de items die in het 
-evaluatiedocument een witte achtergrond hebben>
+Nieuw verworven kennis:         C
+Toepassing aangetoond:          C -> oefeningen staan op GIT (Kotlin syntax)
+Planning:                       D
+Initiatief - inzet:             C
 
 
 Feedback vanwege mentor - <datum van ingave>:
