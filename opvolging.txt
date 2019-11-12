@@ -172,37 +172,19 @@ Planning:                       D
 Initiatief - inzet:             C
 
 
-Feedback vanwege mentor - <datum van ingave>:
+Feedback vanwege mentor - 12/11/2019:
+-------------------------------------
 
-<Hier komt de feedback en opmerkingen vanwege de mentor>
+Dag Dmitriy,
 
+ik zie dat je goed begonnen bent aan je POP-project, maar misschien een beetje achterstand hebt. Goed dat je je oefeningen bijhoudt op git. Ik zie bij je indicatoren ook een rapport staan - laat het niet liggen.
 
+Het is de bedoeling om op voorhand een grondige totaalplanning (per week) te maken en in je logboek bij te houden hoe ver je daarin vordert.
 
-=================================================================================
-(optioneel) Tweede tussenrapportering - <datum van ingave>
-=================================================================================
+De stijl van je tussenrapportering is ok en je zelfevaluatiescores zijn +/- ok ingeschat, behalve 'toepassing aangetoond', omdat we daar vooral scoren op een eigen toepassing die niet rechtstreeks gelinkt is aan de course.
 
-Stand van zaken:
+Veel succes met her verdere verloop!
 
-<Geef hier een korte stand van zaken van wat er gebeurd is sinds vorige tussenrapportering: 
-Wat is er gerealiseerd? Wat moet nog gebeuren? Wat zijn bijzondere gebeurtenissen?
-Wat zijn problemen die je nog moet oplossen?>
-
-Reflectie:
-
-<Hoe werkt je aanpak? Waar had je achteraf gezien beter anders te werk kunnen gaan?
-Hebben vroegere bijsturingen het gewenste effect? Wat wil je nog wijzigen in je aanpak of planning?>
-
-
-Zelfevaluatie:
-
-<Geef jezelf hier een score (gaande van 'NVT' tot 'A') voor de items die in het 
-evaluatiedocument een witte achtergrond hebben>
-
-
-Feedback vanwege mentor - <datum van ingave>:
-
-<Hier komt de feedback en opmerkingen vanwege de mentor>
 
 
 
